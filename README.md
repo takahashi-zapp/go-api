@@ -1,1 +1,1 @@
-# sample-api
+# go-api
